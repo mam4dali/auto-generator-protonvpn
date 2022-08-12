@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crypto-random-string": "^5.0.0",
+    "fetch": "^1.1.0",
+    "puppeteer": "^16.1.0",
+    "querystring": "^0.2.1"
+  }
+}
